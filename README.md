@@ -22,8 +22,8 @@ sslf example.com www staging
 3. Would be added to trusted certificates in keychain.
 
 
-## Why asking for a password?
-An admin password required in the process because of:
+## Why is it asking for a password?
+An admin password is required in the process because of:
 
 - writing in the now protected /etc directory
 - trusting the certificate
